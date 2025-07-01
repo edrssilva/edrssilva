@@ -2,7 +2,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edrssilva&theme=github_dark&show_icons=true&rank_icon=github&card_width=320px&hide=stars,issues)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edrssilva&theme=github_dark&show_icons=true&hide_rank=true&card_width=320px&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,cs,php,figma,ps)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,next,cs,php,figma,ps)](https://skillicons.dev)
 
 
 
