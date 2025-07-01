@@ -6,8 +6,8 @@
 
 
 
-- 🤓 I mostly <b>design</b> and develop the <b>Front-End</b> of web pages with a set of tools that I've been studying and working with on the past couple years with pure **CSS** or using frameworks like **TailwindCSS** and **Bootstrap**
+- 🤓 I mostly <b>design</b> and develop the <b>Front-End</b> of web pages with a set of tools uptadet to the current market necessities.
 - 🎨 3+ years of experience with Design using **Figma** and graphic editing / design tools like **Photoshop**, **Illustrator** and the **Affinity Bundle**
-- 🌱 Studying **Javascript** with **Node**, **React** and **Vite**
+- 🌱 Focused on **Javascript/Typescript** with **Node.Js**, **React** and **Next.Js**
 - 📩 Contact-me via email: **jeduardo.rss@gmail.com**
 
